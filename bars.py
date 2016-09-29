@@ -42,3 +42,4 @@ longitude = float(input("Enter longitude: "))
 latitude = float(input("Enter latitude: "))
 
 print(get_closest_bar(data, longitude, latitude))
+
