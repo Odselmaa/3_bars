@@ -7,10 +7,11 @@ and closest bar corresponding to current latitude and longitude.
 ## How to run?
 - In order to execute code, for example in Moscow, you need to download JSON file from here:
 http://data.mos.ru/opendata/7710881420-bary
-- Save it in one folder where locates code file named 'bars.py'
-- Run it
+- Save it in one folder where locates code file named **bars.py**
+- Run it!
 
 ## bars.py
+```
  - **load_data(filepath)**
     loads json data from given path, returns json data as an array</br>
     _filepath</br>
@@ -47,3 +48,4 @@ http://data.mos.ru/opendata/7710881420-bary
 
 - **get_distance(long1, lat1, long2, lat2)**</br>
     calculate distance between two points that given by latitude and longitude
+```
