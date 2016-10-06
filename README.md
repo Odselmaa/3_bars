@@ -1,7 +1,5 @@
 # 3_bars
 
-# 3_bars
-
 =================================
 https://github.com/Odselmaa/3_bars
 
