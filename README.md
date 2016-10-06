@@ -20,7 +20,6 @@ you need to download JSON file from here:
 
 
 #bars.py
---------------------
  - load_data(filepath)
     loads json data from given path, returns json data as an array
     
